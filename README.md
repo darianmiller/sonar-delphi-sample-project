@@ -103,5 +103,6 @@ OpenJDK 64-Bit Server VM Temurin-21.0.6+7 (build 21.0.6+7-LTS, mixed mode, shari
 Logon to your SonarQube server and you should now see the project details.  You can configure your own Delphi projects using the sample project as a guide.
 You can also reference their [help page](https://github.com/integrated-application-development/sonar-delphi/tree/master/docs/MANUAL.md)
 
-![image](https://github.com/user-attachments/assets/bc1e3a74-7523-4428-b68d-fe170b7622e8)
+![image](https://github.com/user-attachments/assets/99351f4d-bb5f-470d-b9df-972d10c34ee5)
+
 
